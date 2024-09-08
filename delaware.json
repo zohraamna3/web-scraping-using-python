@@ -1,0 +1,5979 @@
+{
+  "state abbreviation": "DE",
+  "State": "Delaware",
+  "Capital": "Dover",
+  "Rango CPs": "19701 to 19980",
+  "Amount of CPS": "98",
+  "Foundation date": "December 7, 1787",
+  "cities": [
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19810",
+      "Postal code type": "STANDARD",
+      "Estimated population": "22.602",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Edgemoor, DE",
+          "ACCEPTABLE ",
+          "Arden, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "22.602",
+          "22.602",
+          "22.602"
+        ],
+        "Population density": [
+          "1.270,30"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.818650000"
+        ],
+        "Longitude": [
+          "-75.506510000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Edgemoor, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19810",
+      "Postal code type": "STANDARD",
+      "Estimated population": "22.602",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Edgemoor, DE",
+          "ACCEPTABLE ",
+          "Arden, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "22.602",
+          "22.602",
+          "22.602"
+        ],
+        "Population density": [
+          "1.270,30"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.818650000"
+        ],
+        "Longitude": [
+          "-75.506510000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19897",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Astrazeneca, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Newark, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19712",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Newark, DE",
+          "PRIMARY ",
+          "Avon Products Inc, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Bank Of America, DE",
+      "City name": "IMPROPER ",
+      "Zip code": "19884",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Greenville, DE",
+          "ACCEPTABLE ",
+          "Bank Of America, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Bank Of America, DE",
+      "City name": "IMPROPER ",
+      "Zip code": "19886",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Bank Of America, DE",
+          "NOT ACCEPTABLE ",
+          "Shared Firm Zip, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Bank Of America, DE",
+      "City name": "IMPROPER ",
+      "Zip code": "19891",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Bank Of America, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Bear, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19701",
+      "Postal code type": "STANDARD",
+      "Estimated population": "34.541",
+      "Postal code": {
+        "Ciudad": [
+          "Bear, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "34.541"
+        ],
+        "Population density": [
+          "583,00"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.584350000"
+        ],
+        "Longitude": [
+          "-75.699390000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Bellefonte, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19809",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.162",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Bellefonte, DE",
+          "ACCEPTABLE ",
+          "Edgemoor, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.162",
+          "12.162",
+          "12.162"
+        ],
+        "Population density": [
+          "835,30"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.758700000"
+        ],
+        "Longitude": [
+          "-75.502370000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19889",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Beneficial Natl Bank, DE",
+          "NOT ACCEPTABLE ",
+          "Wilmington, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Bethany Beach, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19930",
+      "Postal code type": "STANDARD",
+      "Estimated population": "2.321",
+      "Postal code": {
+        "Ciudad": [
+          "Bethany Beach, DE",
+          "PRIMARY ",
+          "S Bethany, DE",
+          "ACCEPTABLE ",
+          "South Bethany, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "2.321",
+          "2.321",
+          "2.321"
+        ],
+        "Population density": [
+          "157,30"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.550950000"
+        ],
+        "Longitude": [
+          "-75.064870000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Bethel, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19931",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Bethel, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [
+          "130,90"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.573990000"
+        ],
+        "Longitude": [
+          "-75.622940000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Townsend, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19734",
+      "Postal code type": "STANDARD",
+      "Estimated population": "8.648",
+      "Postal code": {
+        "Ciudad": [
+          "Townsend, DE",
+          "PRIMARY ",
+          "Blackbird, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "8.648",
+          "8.648"
+        ],
+        "Population density": [
+          "64,80"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.383560000"
+        ],
+        "Longitude": [
+          "-75.649470000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Blades, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19973",
+      "Postal code type": "STANDARD",
+      "Estimated population": "19.117",
+      "Postal code": {
+        "Ciudad": [
+          "Seaford, DE",
+          "PRIMARY ",
+          "Blades, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "19.117",
+          "19.117"
+        ],
+        "Population density": [
+          "121,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.639270000"
+        ],
+        "Longitude": [
+          "-75.615780000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Bridgeville, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19933",
+      "Postal code type": "STANDARD",
+      "Estimated population": "6.704",
+      "Postal code": {
+        "Ciudad": [
+          "Bridgeville, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "6.704"
+        ],
+        "Population density": [
+          "66,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.736000000"
+        ],
+        "Longitude": [
+          "-75.609530000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Camden, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19934",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.884",
+      "Postal code": {
+        "Ciudad": [
+          "Camden Wyoming, DE",
+          "PRIMARY ",
+          "Camden, DE",
+          "ACCEPTABLE ",
+          "Camden Wyo, DE",
+          "ACCEPTABLE ",
+          "Wyoming, DE",
+          "ACCEPTABLE ",
+          "Camden-wy, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyo, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyoming, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884"
+        ],
+        "Population density": [
+          "121,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.083350000"
+        ],
+        "Longitude": [
+          "-75.629110000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Camden Wyoming, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19934",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.884",
+      "Postal code": {
+        "Ciudad": [
+          "Camden Wyoming, DE",
+          "PRIMARY ",
+          "Camden, DE",
+          "ACCEPTABLE ",
+          "Camden Wyo, DE",
+          "ACCEPTABLE ",
+          "Wyoming, DE",
+          "ACCEPTABLE ",
+          "Camden-wy, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyo, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyoming, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884"
+        ],
+        "Population density": [
+          "121,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.083350000"
+        ],
+        "Longitude": [
+          "-75.629110000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Camden, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19934",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.884",
+      "Postal code": {
+        "Ciudad": [
+          "Camden Wyoming, DE",
+          "PRIMARY ",
+          "Camden, DE",
+          "ACCEPTABLE ",
+          "Camden Wyo, DE",
+          "ACCEPTABLE ",
+          "Wyoming, DE",
+          "ACCEPTABLE ",
+          "Camden-wy, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyo, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyoming, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884"
+        ],
+        "Population density": [
+          "121,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.083350000"
+        ],
+        "Longitude": [
+          "-75.629110000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Camden Wyo, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19934",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.884",
+      "Postal code": {
+        "Ciudad": [
+          "Camden Wyoming, DE",
+          "PRIMARY ",
+          "Camden, DE",
+          "ACCEPTABLE ",
+          "Camden Wyo, DE",
+          "ACCEPTABLE ",
+          "Wyoming, DE",
+          "ACCEPTABLE ",
+          "Camden-wy, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyo, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyoming, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884"
+        ],
+        "Population density": [
+          "121,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.083350000"
+        ],
+        "Longitude": [
+          "-75.629110000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wyoming, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19934",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.884",
+      "Postal code": {
+        "Ciudad": [
+          "Camden Wyoming, DE",
+          "PRIMARY ",
+          "Camden, DE",
+          "ACCEPTABLE ",
+          "Camden Wyo, DE",
+          "ACCEPTABLE ",
+          "Wyoming, DE",
+          "ACCEPTABLE ",
+          "Camden-wy, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyo, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyoming, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884"
+        ],
+        "Population density": [
+          "121,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.083350000"
+        ],
+        "Longitude": [
+          "-75.629110000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Camden Wyo, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19934",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.884",
+      "Postal code": {
+        "Ciudad": [
+          "Camden Wyoming, DE",
+          "PRIMARY ",
+          "Camden, DE",
+          "ACCEPTABLE ",
+          "Camden Wyo, DE",
+          "ACCEPTABLE ",
+          "Wyoming, DE",
+          "ACCEPTABLE ",
+          "Camden-wy, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyo, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyoming, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884"
+        ],
+        "Population density": [
+          "121,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.083350000"
+        ],
+        "Longitude": [
+          "-75.629110000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Camden-wyo, DE",
+      "City name": "IMPROPER ",
+      "Zip code": "19934",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.884",
+      "Postal code": {
+        "Ciudad": [
+          "Camden Wyoming, DE",
+          "PRIMARY ",
+          "Camden, DE",
+          "ACCEPTABLE ",
+          "Camden Wyo, DE",
+          "ACCEPTABLE ",
+          "Wyoming, DE",
+          "ACCEPTABLE ",
+          "Camden-wy, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyo, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyoming, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884"
+        ],
+        "Population density": [
+          "121,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.083350000"
+        ],
+        "Longitude": [
+          "-75.629110000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Camden Wyoming, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19934",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.884",
+      "Postal code": {
+        "Ciudad": [
+          "Camden Wyoming, DE",
+          "PRIMARY ",
+          "Camden, DE",
+          "ACCEPTABLE ",
+          "Camden Wyo, DE",
+          "ACCEPTABLE ",
+          "Wyoming, DE",
+          "ACCEPTABLE ",
+          "Camden-wy, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyo, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyoming, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884"
+        ],
+        "Population density": [
+          "121,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.083350000"
+        ],
+        "Longitude": [
+          "-75.629110000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Camden-wyoming, DE",
+      "City name": "IMPROPER ",
+      "Zip code": "19934",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.884",
+      "Postal code": {
+        "Ciudad": [
+          "Camden Wyoming, DE",
+          "PRIMARY ",
+          "Camden, DE",
+          "ACCEPTABLE ",
+          "Camden Wyo, DE",
+          "ACCEPTABLE ",
+          "Wyoming, DE",
+          "ACCEPTABLE ",
+          "Camden-wy, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyo, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyoming, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884"
+        ],
+        "Population density": [
+          "121,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.083350000"
+        ],
+        "Longitude": [
+          "-75.629110000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19893",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Chase Manhattan Bank N A, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Cheswold, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19936",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Cheswold, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [
+          "542,40"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.219090000"
+        ],
+        "Longitude": [
+          "-75.584500000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Christiana, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19702",
+      "Postal code type": "STANDARD",
+      "Estimated population": "41.451",
+      "Postal code": {
+        "Ciudad": [
+          "Newark, DE",
+          "PRIMARY ",
+          "Christiana, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "41.451",
+          "41.451"
+        ],
+        "Population density": [
+          "757,20"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.622250000"
+        ],
+        "Longitude": [
+          "-75.727480000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Newark, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19718",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Newark, DE",
+          "PRIMARY ",
+          "Christiana Medical Center, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Citibank, DE",
+      "City name": "IMPROPER ",
+      "Zip code": "19721",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "New Castle, DE",
+          "PRIMARY ",
+          "Citibank, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Citibank, DE",
+      "City name": "IMPROPER ",
+      "Zip code": "19892",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Citibank, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Clarksville, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19970",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.126",
+      "Postal code": {
+        "Ciudad": [
+          "Ocean View, DE",
+          "PRIMARY ",
+          "Clarksville, DE",
+          "ACCEPTABLE ",
+          "Millville, DE",
+          "ACCEPTABLE ",
+          "Oceanview, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.126",
+          "5.126",
+          "5.126",
+          "5.126"
+        ],
+        "Population density": [
+          "339,70"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.561880000"
+        ],
+        "Longitude": [
+          "-75.096610000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Claymont, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19703",
+      "Postal code type": "STANDARD",
+      "Estimated population": "11.662",
+      "Postal code": {
+        "Ciudad": [
+          "Claymont, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "11.662"
+        ],
+        "Population density": [
+          "1.511,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.804350000"
+        ],
+        "Longitude": [
+          "-75.457650000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Clayton, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19938",
+      "Postal code type": "STANDARD",
+      "Estimated population": "6.886",
+      "Postal code": {
+        "Ciudad": [
+          "Clayton, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "6.886"
+        ],
+        "Population density": [
+          "70,20"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.257190000"
+        ],
+        "Longitude": [
+          "-75.699230000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19887",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Computer Com Of Amer, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Dagsboro, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19939",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.123",
+      "Postal code": {
+        "Ciudad": [
+          "Dagsboro, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.123"
+        ],
+        "Population density": [
+          "109,70"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.564790000"
+        ],
+        "Longitude": [
+          "-75.210640000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Delaware City, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19706",
+      "Postal code type": "PO BOX",
+      "Estimated population": "1.603",
+      "Postal code": {
+        "Ciudad": [
+          "Delaware City, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "1.603"
+        ],
+        "Population density": [
+          "188,90"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.572750000"
+        ],
+        "Longitude": [
+          "-75.598800000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Delmar, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19940",
+      "Postal code type": "STANDARD",
+      "Estimated population": "4.493",
+      "Postal code": {
+        "Ciudad": [
+          "Delmar, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "4.493"
+        ],
+        "Population density": [
+          "52,00"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.477870000"
+        ],
+        "Longitude": [
+          "-75.568930000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19895",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Delmarva Power, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Rehoboth Bch, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19971",
+      "Postal code type": "STANDARD",
+      "Estimated population": "9.925",
+      "Postal code": {
+        "Ciudad": [
+          "Rehoboth Bch, DE",
+          "ACCEPTABLE ",
+          "Rehoboth Beach, DE",
+          "PRIMARY ",
+          "Dewey Bch, DE",
+          "NOT ACCEPTABLE ",
+          "Rehoboth, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "9.925",
+          "9.925",
+          "9.925",
+          "9.925"
+        ],
+        "Population density": [
+          "320,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.688080000"
+        ],
+        "Longitude": [
+          "-75.101140000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Rehoboth Beach, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19971",
+      "Postal code type": "STANDARD",
+      "Estimated population": "9.925",
+      "Postal code": {
+        "Ciudad": [
+          "Rehoboth Bch, DE",
+          "ACCEPTABLE ",
+          "Rehoboth Beach, DE",
+          "PRIMARY ",
+          "Dewey Bch, DE",
+          "NOT ACCEPTABLE ",
+          "Rehoboth, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "9.925",
+          "9.925",
+          "9.925",
+          "9.925"
+        ],
+        "Population density": [
+          "320,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.688080000"
+        ],
+        "Longitude": [
+          "-75.101140000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Dover, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19901",
+      "Postal code type": "STANDARD",
+      "Estimated population": "24.829",
+      "Postal code": {
+        "Ciudad": [
+          "Dover, DE",
+          "PRIMARY ",
+          "Leipsic, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "24.829",
+          "24.829"
+        ],
+        "Population density": [
+          "180,30"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.171720000"
+        ],
+        "Longitude": [
+          "-75.476930000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Dover, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19902",
+      "Postal code type": "STANDARD",
+      "Estimated population": "342",
+      "Postal code": {
+        "Ciudad": [
+          "Dover Afb, DE",
+          "PRIMARY ",
+          "Dover, DE",
+          "ACCEPTABLE ",
+          "Dover Air Force Base, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "342",
+          "342",
+          "342"
+        ],
+        "Population density": [
+          "317,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.125280000"
+        ],
+        "Longitude": [
+          "-75.481680000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Dover, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19903",
+      "Postal code type": "PO BOX",
+      "Estimated population": "804",
+      "Postal code": {
+        "Ciudad": [
+          "Dover, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "804"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Dover, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19904",
+      "Postal code type": "STANDARD",
+      "Estimated population": "25.911",
+      "Postal code": {
+        "Ciudad": [
+          "Dover, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "25.911"
+        ],
+        "Population density": [
+          "328,70"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.170230000"
+        ],
+        "Longitude": [
+          "-75.594930000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Dover, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19905",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Dover, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Dover, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19906",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Dover, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Dover Afb, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19902",
+      "Postal code type": "STANDARD",
+      "Estimated population": "342",
+      "Postal code": {
+        "Ciudad": [
+          "Dover Afb, DE",
+          "PRIMARY ",
+          "Dover, DE",
+          "ACCEPTABLE ",
+          "Dover Air Force Base, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "342",
+          "342",
+          "342"
+        ],
+        "Population density": [
+          "317,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.125280000"
+        ],
+        "Longitude": [
+          "-75.481680000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Dover Air Force Base, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19902",
+      "Postal code type": "STANDARD",
+      "Estimated population": "342",
+      "Postal code": {
+        "Ciudad": [
+          "Dover Afb, DE",
+          "PRIMARY ",
+          "Dover, DE",
+          "ACCEPTABLE ",
+          "Dover Air Force Base, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "342",
+          "342",
+          "342"
+        ],
+        "Population density": [
+          "317,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.125280000"
+        ],
+        "Longitude": [
+          "-75.481680000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19898",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Dupont Co Inc, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Edgemoor, DE",
+      "City name": "IMPROPER ",
+      "Zip code": "19802",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.453",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Edgemoor, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.453",
+          "17.453"
+        ],
+        "Population density": [
+          "3.129,80"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.756780000"
+        ],
+        "Longitude": [
+          "-75.528980000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Edgemoor, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19809",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.162",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Bellefonte, DE",
+          "ACCEPTABLE ",
+          "Edgemoor, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.162",
+          "12.162",
+          "12.162"
+        ],
+        "Population density": [
+          "835,30"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.758700000"
+        ],
+        "Longitude": [
+          "-75.502370000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Edgemoor, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19810",
+      "Postal code type": "STANDARD",
+      "Estimated population": "22.602",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Edgemoor, DE",
+          "ACCEPTABLE ",
+          "Arden, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "22.602",
+          "22.602",
+          "22.602"
+        ],
+        "Population density": [
+          "1.270,30"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.818650000"
+        ],
+        "Longitude": [
+          "-75.506510000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Ellendale, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19941",
+      "Postal code type": "STANDARD",
+      "Estimated population": "1.916",
+      "Postal code": {
+        "Ciudad": [
+          "Ellendale, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "1.916"
+        ],
+        "Population density": [
+          "37,60"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.795570000"
+        ],
+        "Longitude": [
+          "-75.425560000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Elsmere, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19805",
+      "Postal code type": "STANDARD",
+      "Estimated population": "30.434",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Elsmere, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "30.434",
+          "30.434"
+        ],
+        "Population density": [
+          "2.791,30"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.744750000"
+        ],
+        "Longitude": [
+          "-75.592690000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Farmington, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19950",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.315",
+      "Postal code": {
+        "Ciudad": [
+          "Greenwood, DE",
+          "PRIMARY ",
+          "Farmington, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.315",
+          "5.315"
+        ],
+        "Population density": [
+          "38,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.820130000"
+        ],
+        "Longitude": [
+          "-75.597280000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Felton, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19943",
+      "Postal code type": "STANDARD",
+      "Estimated population": "9.612",
+      "Postal code": {
+        "Ciudad": [
+          "Felton, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "9.612"
+        ],
+        "Population density": [
+          "75,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.005800000"
+        ],
+        "Longitude": [
+          "-75.608810000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Fenwick Island, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19944",
+      "Postal code type": "STANDARD",
+      "Estimated population": "441",
+      "Postal code": {
+        "Ciudad": [
+          "Fenwick Island, DE",
+          "PRIMARY ",
+          "Fenwick Isle, DE",
+          "ACCEPTABLE ",
+          "Selbyville, DE",
+          "ACCEPTABLE ",
+          "Fenwick Is, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "441",
+          "441",
+          "441",
+          "441"
+        ],
+        "Population density": [
+          "212,20"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.475780000"
+        ],
+        "Longitude": [
+          "-75.055590000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Fenwick Isle, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19944",
+      "Postal code type": "STANDARD",
+      "Estimated population": "441",
+      "Postal code": {
+        "Ciudad": [
+          "Fenwick Island, DE",
+          "PRIMARY ",
+          "Fenwick Isle, DE",
+          "ACCEPTABLE ",
+          "Selbyville, DE",
+          "ACCEPTABLE ",
+          "Fenwick Is, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "441",
+          "441",
+          "441",
+          "441"
+        ],
+        "Population density": [
+          "212,20"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.475780000"
+        ],
+        "Longitude": [
+          "-75.055590000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Selbyville, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19944",
+      "Postal code type": "STANDARD",
+      "Estimated population": "441",
+      "Postal code": {
+        "Ciudad": [
+          "Fenwick Island, DE",
+          "PRIMARY ",
+          "Fenwick Isle, DE",
+          "ACCEPTABLE ",
+          "Selbyville, DE",
+          "ACCEPTABLE ",
+          "Fenwick Is, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "441",
+          "441",
+          "441",
+          "441"
+        ],
+        "Population density": [
+          "212,20"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.475780000"
+        ],
+        "Longitude": [
+          "-75.055590000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Fenwick Island, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19944",
+      "Postal code type": "STANDARD",
+      "Estimated population": "441",
+      "Postal code": {
+        "Ciudad": [
+          "Fenwick Island, DE",
+          "PRIMARY ",
+          "Fenwick Isle, DE",
+          "ACCEPTABLE ",
+          "Selbyville, DE",
+          "ACCEPTABLE ",
+          "Fenwick Is, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "441",
+          "441",
+          "441",
+          "441"
+        ],
+        "Population density": [
+          "212,20"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.475780000"
+        ],
+        "Longitude": [
+          "-75.055590000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Fenwick Island, DE",
+      "City name": "IMPROPER ",
+      "Zip code": "19975",
+      "Postal code type": "STANDARD",
+      "Estimated population": "6.459",
+      "Postal code": {
+        "Ciudad": [
+          "Selbyville, DE",
+          "PRIMARY ",
+          "Fenwick Island, DE",
+          "NOT ACCEPTABLE ",
+          "West Fenwick, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "6.459",
+          "6.459",
+          "6.459"
+        ],
+        "Population density": [
+          "137,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.470140000"
+        ],
+        "Longitude": [
+          "-75.174880000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Fenwick Isle, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19944",
+      "Postal code type": "STANDARD",
+      "Estimated population": "441",
+      "Postal code": {
+        "Ciudad": [
+          "Fenwick Island, DE",
+          "PRIMARY ",
+          "Fenwick Isle, DE",
+          "ACCEPTABLE ",
+          "Selbyville, DE",
+          "ACCEPTABLE ",
+          "Fenwick Is, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "441",
+          "441",
+          "441",
+          "441"
+        ],
+        "Population density": [
+          "212,20"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.475780000"
+        ],
+        "Longitude": [
+          "-75.055590000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Frankford, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19945",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.338",
+      "Postal code": {
+        "Ciudad": [
+          "Frankford, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.338"
+        ],
+        "Population density": [
+          "41,80"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.504760000"
+        ],
+        "Longitude": [
+          "-75.228880000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Frederica, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19946",
+      "Postal code type": "STANDARD",
+      "Estimated population": "3.517",
+      "Postal code": {
+        "Ciudad": [
+          "Frederica, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "3.517"
+        ],
+        "Population density": [
+          "92,70"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.034230000"
+        ],
+        "Longitude": [
+          "-75.454160000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Georgetown, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19947",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.253",
+      "Postal code": {
+        "Ciudad": [
+          "Georgetown, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.253"
+        ],
+        "Population density": [
+          "64,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.672390000"
+        ],
+        "Longitude": [
+          "-75.396680000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Greenville, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19807",
+      "Postal code type": "STANDARD",
+      "Estimated population": "7.193",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Greenville, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "7.193",
+          "7.193"
+        ],
+        "Population density": [
+          "147,90"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.797620000"
+        ],
+        "Longitude": [
+          "-75.609790000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Greenville, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19884",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Greenville, DE",
+          "ACCEPTABLE ",
+          "Bank Of America, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Greenwood, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19950",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.315",
+      "Postal code": {
+        "Ciudad": [
+          "Greenwood, DE",
+          "PRIMARY ",
+          "Farmington, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.315",
+          "5.315"
+        ],
+        "Population density": [
+          "38,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.820130000"
+        ],
+        "Longitude": [
+          "-75.597280000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Harbeson, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19951",
+      "Postal code type": "STANDARD",
+      "Estimated population": "1.447",
+      "Postal code": {
+        "Ciudad": [
+          "Harbeson, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "1.447"
+        ],
+        "Population density": [
+          "80,30"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.691170000"
+        ],
+        "Longitude": [
+          "-75.254540000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Harrington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19952",
+      "Postal code type": "STANDARD",
+      "Estimated population": "8.258",
+      "Postal code": {
+        "Ciudad": [
+          "Harrington, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "8.258"
+        ],
+        "Population density": [
+          "44,30"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.915870000"
+        ],
+        "Longitude": [
+          "-75.626090000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Hartly, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19953",
+      "Postal code type": "STANDARD",
+      "Estimated population": "3.609",
+      "Postal code": {
+        "Ciudad": [
+          "Hartly, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "3.609"
+        ],
+        "Population density": [
+          "59,90"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.152170000"
+        ],
+        "Longitude": [
+          "-75.698090000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19894",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Hercules Incorporated, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Hockessin, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19707",
+      "Postal code type": "STANDARD",
+      "Estimated population": "15.507",
+      "Postal code": {
+        "Ciudad": [
+          "Hockessin, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "15.507"
+        ],
+        "Population density": [
+          "462,70"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.785870000"
+        ],
+        "Longitude": [
+          "-75.680830000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Houston, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19954",
+      "Postal code type": "STANDARD",
+      "Estimated population": "1.320",
+      "Postal code": {
+        "Ciudad": [
+          "Houston, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "1.320"
+        ],
+        "Population density": [
+          "68,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.897440000"
+        ],
+        "Longitude": [
+          "-75.520360000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Kenton, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19955",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Kenton, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [
+          "353,90"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.225990000"
+        ],
+        "Longitude": [
+          "-75.668540000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Kirkwood, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19708",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Kirkwood, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Laurel, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19956",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.111",
+      "Postal code": {
+        "Ciudad": [
+          "Laurel, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.111"
+        ],
+        "Population density": [
+          "57,70"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.547870000"
+        ],
+        "Longitude": [
+          "-75.540790000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Leipsic, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19901",
+      "Postal code type": "STANDARD",
+      "Estimated population": "24.829",
+      "Postal code": {
+        "Ciudad": [
+          "Dover, DE",
+          "PRIMARY ",
+          "Leipsic, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "24.829",
+          "24.829"
+        ],
+        "Population density": [
+          "180,30"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.171720000"
+        ],
+        "Longitude": [
+          "-75.476930000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Lewes, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19958",
+      "Postal code type": "STANDARD",
+      "Estimated population": "15.994",
+      "Postal code": {
+        "Ciudad": [
+          "Lewes, DE",
+          "PRIMARY ",
+          "Lewes Beach, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "15.994",
+          "15.994"
+        ],
+        "Population density": [
+          "206,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.728940000"
+        ],
+        "Longitude": [
+          "-75.164980000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Lewes, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19958",
+      "Postal code type": "STANDARD",
+      "Estimated population": "15.994",
+      "Postal code": {
+        "Ciudad": [
+          "Lewes, DE",
+          "PRIMARY ",
+          "Lewes Beach, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "15.994",
+          "15.994"
+        ],
+        "Population density": [
+          "206,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.728940000"
+        ],
+        "Longitude": [
+          "-75.164980000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Lincoln, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19960",
+      "Postal code type": "STANDARD",
+      "Estimated population": "4.918",
+      "Postal code": {
+        "Ciudad": [
+          "Lincoln, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "4.918"
+        ],
+        "Population density": [
+          "85,00"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.848990000"
+        ],
+        "Longitude": [
+          "-75.413630000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Little Creek, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19961",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Little Creek, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Long Neck, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19966",
+      "Postal code type": "STANDARD",
+      "Estimated population": "18.512",
+      "Postal code": {
+        "Ciudad": [
+          "Millsboro, DE",
+          "PRIMARY ",
+          "Long Neck, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "18.512",
+          "18.512"
+        ],
+        "Population density": [
+          "130,70"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.581140000"
+        ],
+        "Longitude": [
+          "-75.281580000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Magnolia, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19962",
+      "Postal code type": "STANDARD",
+      "Estimated population": "8.138",
+      "Postal code": {
+        "Ciudad": [
+          "Magnolia, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "8.138"
+        ],
+        "Population density": [
+          "312,80"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.070160000"
+        ],
+        "Longitude": [
+          "-75.497450000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Manor, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19720",
+      "Postal code type": "STANDARD",
+      "Estimated population": "47.355",
+      "Postal code": {
+        "Ciudad": [
+          "New Castle, DE",
+          "PRIMARY ",
+          "Manor, DE",
+          "ACCEPTABLE ",
+          "Minquadale, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "47.355",
+          "47.355",
+          "47.355"
+        ],
+        "Population density": [
+          "620,90"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.646990000"
+        ],
+        "Longitude": [
+          "-75.606330000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Marshallton, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19808",
+      "Postal code type": "STANDARD",
+      "Estimated population": "33.228",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Marshallton, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "33.228",
+          "33.228"
+        ],
+        "Population density": [
+          "1.067,40"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.738380000"
+        ],
+        "Longitude": [
+          "-75.665250000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Marydel, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19964",
+      "Postal code type": "STANDARD",
+      "Estimated population": "1.082",
+      "Postal code": {
+        "Ciudad": [
+          "Marydel, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "1.082"
+        ],
+        "Population density": [
+          "46,20"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.090670000"
+        ],
+        "Longitude": [
+          "-75.723290000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Middletown, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19709",
+      "Postal code type": "STANDARD",
+      "Estimated population": "29.310",
+      "Postal code": {
+        "Ciudad": [
+          "Middletown, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "29.310"
+        ],
+        "Population density": [
+          "205,90"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.488860000"
+        ],
+        "Longitude": [
+          "-75.682270000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Milford, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19963",
+      "Postal code type": "STANDARD",
+      "Estimated population": "14.990",
+      "Postal code": {
+        "Ciudad": [
+          "Milford, DE",
+          "PRIMARY ",
+          "Slaughter Beach, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "14.990",
+          "14.990"
+        ],
+        "Population density": [
+          "75,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.936100000"
+        ],
+        "Longitude": [
+          "-75.381580000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Millsboro, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19966",
+      "Postal code type": "STANDARD",
+      "Estimated population": "18.512",
+      "Postal code": {
+        "Ciudad": [
+          "Millsboro, DE",
+          "PRIMARY ",
+          "Long Neck, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "18.512",
+          "18.512"
+        ],
+        "Population density": [
+          "130,70"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.581140000"
+        ],
+        "Longitude": [
+          "-75.281580000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Millville, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19967",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Millville, DE",
+          "PRIMARY ",
+          "Ocean View, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [
+          "331,00"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.538710000"
+        ],
+        "Longitude": [
+          "-75.122580000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Millville, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19970",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.126",
+      "Postal code": {
+        "Ciudad": [
+          "Ocean View, DE",
+          "PRIMARY ",
+          "Clarksville, DE",
+          "ACCEPTABLE ",
+          "Millville, DE",
+          "ACCEPTABLE ",
+          "Oceanview, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.126",
+          "5.126",
+          "5.126",
+          "5.126"
+        ],
+        "Population density": [
+          "339,70"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.561880000"
+        ],
+        "Longitude": [
+          "-75.096610000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Milton, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19968",
+      "Postal code type": "STANDARD",
+      "Estimated population": "8.225",
+      "Postal code": {
+        "Ciudad": [
+          "Milton, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "8.225"
+        ],
+        "Population density": [
+          "71,80"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.777590000"
+        ],
+        "Longitude": [
+          "-75.286490000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "New Castle, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19720",
+      "Postal code type": "STANDARD",
+      "Estimated population": "47.355",
+      "Postal code": {
+        "Ciudad": [
+          "New Castle, DE",
+          "PRIMARY ",
+          "Manor, DE",
+          "ACCEPTABLE ",
+          "Minquadale, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "47.355",
+          "47.355",
+          "47.355"
+        ],
+        "Population density": [
+          "620,90"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.646990000"
+        ],
+        "Longitude": [
+          "-75.606330000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Manor, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19720",
+      "Postal code type": "STANDARD",
+      "Estimated population": "47.355",
+      "Postal code": {
+        "Ciudad": [
+          "New Castle, DE",
+          "PRIMARY ",
+          "Manor, DE",
+          "ACCEPTABLE ",
+          "Minquadale, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "47.355",
+          "47.355",
+          "47.355"
+        ],
+        "Population density": [
+          "620,90"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.646990000"
+        ],
+        "Longitude": [
+          "-75.606330000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Montchanin, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19710",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Montchanin, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [
+          "0,00"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.795030000"
+        ],
+        "Longitude": [
+          "-75.588150000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Nassau, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19969",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Nassau, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "New Castle, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19720",
+      "Postal code type": "STANDARD",
+      "Estimated population": "47.355",
+      "Postal code": {
+        "Ciudad": [
+          "New Castle, DE",
+          "PRIMARY ",
+          "Manor, DE",
+          "ACCEPTABLE ",
+          "Minquadale, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "47.355",
+          "47.355",
+          "47.355"
+        ],
+        "Population density": [
+          "620,90"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.646990000"
+        ],
+        "Longitude": [
+          "-75.606330000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "New Castle, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19721",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "New Castle, DE",
+          "PRIMARY ",
+          "Citibank, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Newark, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19702",
+      "Postal code type": "STANDARD",
+      "Estimated population": "41.451",
+      "Postal code": {
+        "Ciudad": [
+          "Newark, DE",
+          "PRIMARY ",
+          "Christiana, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "41.451",
+          "41.451"
+        ],
+        "Population density": [
+          "757,20"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.622250000"
+        ],
+        "Longitude": [
+          "-75.727480000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Newark, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19711",
+      "Postal code type": "STANDARD",
+      "Estimated population": "37.619",
+      "Postal code": {
+        "Ciudad": [
+          "Newark, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "37.619"
+        ],
+        "Population density": [
+          "740,90"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.714300000"
+        ],
+        "Longitude": [
+          "-75.739650000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Newark, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19712",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Newark, DE",
+          "PRIMARY ",
+          "Avon Products Inc, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Newark, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19713",
+      "Postal code type": "STANDARD",
+      "Estimated population": "25.300",
+      "Postal code": {
+        "Ciudad": [
+          "Newark, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "25.300"
+        ],
+        "Population density": [
+          "853,80"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.670790000"
+        ],
+        "Longitude": [
+          "-75.712180000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Newark, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19714",
+      "Postal code type": "PO BOX",
+      "Estimated population": "1.147",
+      "Postal code": {
+        "Ciudad": [
+          "Newark, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "1.147"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Newark, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19715",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Newark, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Newark, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19716",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Newark, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [
+          "10.498,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.689640000"
+        ],
+        "Longitude": [
+          "-75.758510000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Newark, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19717",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Newark, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [
+          "8.038,00"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.678520000"
+        ],
+        "Longitude": [
+          "-75.752050000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Newark, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19718",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Newark, DE",
+          "PRIMARY ",
+          "Christiana Medical Center, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Newark, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19725",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Newark, DE",
+          "PRIMARY ",
+          "Shared Firm Zip, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Newark, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19726",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Newark, DE",
+          "PRIMARY ",
+          "Shared Firm Zip, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Newport, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19804",
+      "Postal code type": "STANDARD",
+      "Estimated population": "15.157",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Newport, DE",
+          "ACCEPTABLE ",
+          "Stanton, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "15.157",
+          "15.157",
+          "15.157"
+        ],
+        "Population density": [
+          "904,20"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.716870000"
+        ],
+        "Longitude": [
+          "-75.618370000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Ocean View, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19967",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Millville, DE",
+          "PRIMARY ",
+          "Ocean View, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [
+          "331,00"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.538710000"
+        ],
+        "Longitude": [
+          "-75.122580000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Ocean View, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19970",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.126",
+      "Postal code": {
+        "Ciudad": [
+          "Ocean View, DE",
+          "PRIMARY ",
+          "Clarksville, DE",
+          "ACCEPTABLE ",
+          "Millville, DE",
+          "ACCEPTABLE ",
+          "Oceanview, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.126",
+          "5.126",
+          "5.126",
+          "5.126"
+        ],
+        "Population density": [
+          "339,70"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.561880000"
+        ],
+        "Longitude": [
+          "-75.096610000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Ocean View, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19970",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.126",
+      "Postal code": {
+        "Ciudad": [
+          "Ocean View, DE",
+          "PRIMARY ",
+          "Clarksville, DE",
+          "ACCEPTABLE ",
+          "Millville, DE",
+          "ACCEPTABLE ",
+          "Oceanview, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.126",
+          "5.126",
+          "5.126",
+          "5.126"
+        ],
+        "Population density": [
+          "339,70"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.561880000"
+        ],
+        "Longitude": [
+          "-75.096610000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Clarksville, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19970",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.126",
+      "Postal code": {
+        "Ciudad": [
+          "Ocean View, DE",
+          "PRIMARY ",
+          "Clarksville, DE",
+          "ACCEPTABLE ",
+          "Millville, DE",
+          "ACCEPTABLE ",
+          "Oceanview, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.126",
+          "5.126",
+          "5.126",
+          "5.126"
+        ],
+        "Population density": [
+          "339,70"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.561880000"
+        ],
+        "Longitude": [
+          "-75.096610000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Millville, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19970",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.126",
+      "Postal code": {
+        "Ciudad": [
+          "Ocean View, DE",
+          "PRIMARY ",
+          "Clarksville, DE",
+          "ACCEPTABLE ",
+          "Millville, DE",
+          "ACCEPTABLE ",
+          "Oceanview, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.126",
+          "5.126",
+          "5.126",
+          "5.126"
+        ],
+        "Population density": [
+          "339,70"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.561880000"
+        ],
+        "Longitude": [
+          "-75.096610000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Odessa, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19730",
+      "Postal code type": "PO BOX",
+      "Estimated population": "565",
+      "Postal code": {
+        "Ciudad": [
+          "Odessa, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "565"
+        ],
+        "Population density": [
+          "310,60"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.459250000"
+        ],
+        "Longitude": [
+          "-75.653560000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Port Penn, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19731",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Port Penn, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [
+          "129,70"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.518900000"
+        ],
+        "Longitude": [
+          "-75.583300000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Rehoboth Bch, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19971",
+      "Postal code type": "STANDARD",
+      "Estimated population": "9.925",
+      "Postal code": {
+        "Ciudad": [
+          "Rehoboth Bch, DE",
+          "ACCEPTABLE ",
+          "Rehoboth Beach, DE",
+          "PRIMARY ",
+          "Dewey Bch, DE",
+          "NOT ACCEPTABLE ",
+          "Rehoboth, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "9.925",
+          "9.925",
+          "9.925",
+          "9.925"
+        ],
+        "Population density": [
+          "320,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.688080000"
+        ],
+        "Longitude": [
+          "-75.101140000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Rehoboth Beach, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19971",
+      "Postal code type": "STANDARD",
+      "Estimated population": "9.925",
+      "Postal code": {
+        "Ciudad": [
+          "Rehoboth Bch, DE",
+          "ACCEPTABLE ",
+          "Rehoboth Beach, DE",
+          "PRIMARY ",
+          "Dewey Bch, DE",
+          "NOT ACCEPTABLE ",
+          "Rehoboth, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "9.925",
+          "9.925",
+          "9.925",
+          "9.925"
+        ],
+        "Population density": [
+          "320,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.688080000"
+        ],
+        "Longitude": [
+          "-75.101140000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Rehoboth Bch, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19971",
+      "Postal code type": "STANDARD",
+      "Estimated population": "9.925",
+      "Postal code": {
+        "Ciudad": [
+          "Rehoboth Bch, DE",
+          "ACCEPTABLE ",
+          "Rehoboth Beach, DE",
+          "PRIMARY ",
+          "Dewey Bch, DE",
+          "NOT ACCEPTABLE ",
+          "Rehoboth, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "9.925",
+          "9.925",
+          "9.925",
+          "9.925"
+        ],
+        "Population density": [
+          "320,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.688080000"
+        ],
+        "Longitude": [
+          "-75.101140000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Rehoboth Beach, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19971",
+      "Postal code type": "STANDARD",
+      "Estimated population": "9.925",
+      "Postal code": {
+        "Ciudad": [
+          "Rehoboth Bch, DE",
+          "ACCEPTABLE ",
+          "Rehoboth Beach, DE",
+          "PRIMARY ",
+          "Dewey Bch, DE",
+          "NOT ACCEPTABLE ",
+          "Rehoboth, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "9.925",
+          "9.925",
+          "9.925",
+          "9.925"
+        ],
+        "Population density": [
+          "320,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.688080000"
+        ],
+        "Longitude": [
+          "-75.101140000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Rockland, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19732",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Rockland, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [
+          "53,70"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.784060000"
+        ],
+        "Longitude": [
+          "-75.570110000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "S Bethany, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19930",
+      "Postal code type": "STANDARD",
+      "Estimated population": "2.321",
+      "Postal code": {
+        "Ciudad": [
+          "Bethany Beach, DE",
+          "PRIMARY ",
+          "S Bethany, DE",
+          "ACCEPTABLE ",
+          "South Bethany, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "2.321",
+          "2.321",
+          "2.321"
+        ],
+        "Population density": [
+          "157,30"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.550950000"
+        ],
+        "Longitude": [
+          "-75.064870000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Saint Georges, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19733",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Saint Georges, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [
+          "837,80"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.556230000"
+        ],
+        "Longitude": [
+          "-75.650950000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Seaford, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19973",
+      "Postal code type": "STANDARD",
+      "Estimated population": "19.117",
+      "Postal code": {
+        "Ciudad": [
+          "Seaford, DE",
+          "PRIMARY ",
+          "Blades, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "19.117",
+          "19.117"
+        ],
+        "Population density": [
+          "121,50"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.639270000"
+        ],
+        "Longitude": [
+          "-75.615780000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Selbyville, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19944",
+      "Postal code type": "STANDARD",
+      "Estimated population": "441",
+      "Postal code": {
+        "Ciudad": [
+          "Fenwick Island, DE",
+          "PRIMARY ",
+          "Fenwick Isle, DE",
+          "ACCEPTABLE ",
+          "Selbyville, DE",
+          "ACCEPTABLE ",
+          "Fenwick Is, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "441",
+          "441",
+          "441",
+          "441"
+        ],
+        "Population density": [
+          "212,20"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.475780000"
+        ],
+        "Longitude": [
+          "-75.055590000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Selbyville, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19975",
+      "Postal code type": "STANDARD",
+      "Estimated population": "6.459",
+      "Postal code": {
+        "Ciudad": [
+          "Selbyville, DE",
+          "PRIMARY ",
+          "Fenwick Island, DE",
+          "NOT ACCEPTABLE ",
+          "West Fenwick, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "6.459",
+          "6.459",
+          "6.459"
+        ],
+        "Population density": [
+          "137,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.470140000"
+        ],
+        "Longitude": [
+          "-75.174880000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Shared Firm Zip, DE",
+      "City name": "IMPROPER ",
+      "Zip code": "19725",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Newark, DE",
+          "PRIMARY ",
+          "Shared Firm Zip, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Shared Firm Zip, DE",
+      "City name": "IMPROPER ",
+      "Zip code": "19726",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Newark, DE",
+          "PRIMARY ",
+          "Shared Firm Zip, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Shared Firm Zip, DE",
+      "City name": "IMPROPER ",
+      "Zip code": "19885",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Shared Firm Zip, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Shared Firm Zip, DE",
+      "City name": "IMPROPER ",
+      "Zip code": "19886",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Bank Of America, DE",
+          "NOT ACCEPTABLE ",
+          "Shared Firm Zip, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Milford, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19963",
+      "Postal code type": "STANDARD",
+      "Estimated population": "14.990",
+      "Postal code": {
+        "Ciudad": [
+          "Milford, DE",
+          "PRIMARY ",
+          "Slaughter Beach, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "14.990",
+          "14.990"
+        ],
+        "Population density": [
+          "75,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.936100000"
+        ],
+        "Longitude": [
+          "-75.381580000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Smyrna, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19977",
+      "Postal code type": "STANDARD",
+      "Estimated population": "16.165",
+      "Postal code": {
+        "Ciudad": [
+          "Smyrna, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "16.165"
+        ],
+        "Population density": [
+          "118,90"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.296280000"
+        ],
+        "Longitude": [
+          "-75.550790000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "South Bethany, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19930",
+      "Postal code type": "STANDARD",
+      "Estimated population": "2.321",
+      "Postal code": {
+        "Ciudad": [
+          "Bethany Beach, DE",
+          "PRIMARY ",
+          "S Bethany, DE",
+          "ACCEPTABLE ",
+          "South Bethany, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "2.321",
+          "2.321",
+          "2.321"
+        ],
+        "Population density": [
+          "157,30"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.550950000"
+        ],
+        "Longitude": [
+          "-75.064870000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Stanton, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19804",
+      "Postal code type": "STANDARD",
+      "Estimated population": "15.157",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Newport, DE",
+          "ACCEPTABLE ",
+          "Stanton, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "15.157",
+          "15.157",
+          "15.157"
+        ],
+        "Population density": [
+          "904,20"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.716870000"
+        ],
+        "Longitude": [
+          "-75.618370000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Talleyville, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19803",
+      "Postal code type": "STANDARD",
+      "Estimated population": "19.593",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Talleyville, DE",
+          "ACCEPTABLE ",
+          "Talleyville Postal Store, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "19.593",
+          "19.593",
+          "19.593"
+        ],
+        "Population density": [
+          "670,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.799960000"
+        ],
+        "Longitude": [
+          "-75.542020000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19803",
+      "Postal code type": "STANDARD",
+      "Estimated population": "19.593",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Talleyville, DE",
+          "ACCEPTABLE ",
+          "Talleyville Postal Store, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "19.593",
+          "19.593",
+          "19.593"
+        ],
+        "Population density": [
+          "670,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.799960000"
+        ],
+        "Longitude": [
+          "-75.542020000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Talleyville, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19803",
+      "Postal code type": "STANDARD",
+      "Estimated population": "19.593",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Talleyville, DE",
+          "ACCEPTABLE ",
+          "Talleyville Postal Store, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "19.593",
+          "19.593",
+          "19.593"
+        ],
+        "Population density": [
+          "670,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.799960000"
+        ],
+        "Longitude": [
+          "-75.542020000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Townsend, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19734",
+      "Postal code type": "STANDARD",
+      "Estimated population": "8.648",
+      "Postal code": {
+        "Ciudad": [
+          "Townsend, DE",
+          "PRIMARY ",
+          "Blackbird, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "8.648",
+          "8.648"
+        ],
+        "Population density": [
+          "64,80"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.383560000"
+        ],
+        "Longitude": [
+          "-75.649470000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19896",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Verizon, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Viola, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19979",
+      "Postal code type": "STANDARD",
+      "Estimated population": "646",
+      "Postal code": {
+        "Ciudad": [
+          "Viola, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "646"
+        ],
+        "Population density": [
+          "136,80"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.048750000"
+        ],
+        "Longitude": [
+          "-75.572510000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Selbyville, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19975",
+      "Postal code type": "STANDARD",
+      "Estimated population": "6.459",
+      "Postal code": {
+        "Ciudad": [
+          "Selbyville, DE",
+          "PRIMARY ",
+          "Fenwick Island, DE",
+          "NOT ACCEPTABLE ",
+          "West Fenwick, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "6.459",
+          "6.459",
+          "6.459"
+        ],
+        "Population density": [
+          "137,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "38.470140000"
+        ],
+        "Longitude": [
+          "-75.174880000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19801",
+      "Postal code type": "STANDARD",
+      "Estimated population": "9.225",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "9.225"
+        ],
+        "Population density": [
+          "1.590,80"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.728600000"
+        ],
+        "Longitude": [
+          "-75.543540000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19802",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.453",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Edgemoor, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.453",
+          "17.453"
+        ],
+        "Population density": [
+          "3.129,80"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.756780000"
+        ],
+        "Longitude": [
+          "-75.528980000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19803",
+      "Postal code type": "STANDARD",
+      "Estimated population": "19.593",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Talleyville, DE",
+          "ACCEPTABLE ",
+          "Talleyville Postal Store, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "19.593",
+          "19.593",
+          "19.593"
+        ],
+        "Population density": [
+          "670,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.799960000"
+        ],
+        "Longitude": [
+          "-75.542020000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19804",
+      "Postal code type": "STANDARD",
+      "Estimated population": "15.157",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Newport, DE",
+          "ACCEPTABLE ",
+          "Stanton, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "15.157",
+          "15.157",
+          "15.157"
+        ],
+        "Population density": [
+          "904,20"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.716870000"
+        ],
+        "Longitude": [
+          "-75.618370000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19805",
+      "Postal code type": "STANDARD",
+      "Estimated population": "30.434",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Elsmere, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "30.434",
+          "30.434"
+        ],
+        "Population density": [
+          "2.791,30"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.744750000"
+        ],
+        "Longitude": [
+          "-75.592690000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19806",
+      "Postal code type": "STANDARD",
+      "Estimated population": "7.007",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "7.007"
+        ],
+        "Population density": [
+          "1.980,20"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.763280000"
+        ],
+        "Longitude": [
+          "-75.564210000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19807",
+      "Postal code type": "STANDARD",
+      "Estimated population": "7.193",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Greenville, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "7.193",
+          "7.193"
+        ],
+        "Population density": [
+          "147,90"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.797620000"
+        ],
+        "Longitude": [
+          "-75.609790000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19808",
+      "Postal code type": "STANDARD",
+      "Estimated population": "33.228",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Marshallton, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "33.228",
+          "33.228"
+        ],
+        "Population density": [
+          "1.067,40"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.738380000"
+        ],
+        "Longitude": [
+          "-75.665250000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19809",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.162",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Bellefonte, DE",
+          "ACCEPTABLE ",
+          "Edgemoor, DE",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.162",
+          "12.162",
+          "12.162"
+        ],
+        "Population density": [
+          "835,30"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.758700000"
+        ],
+        "Longitude": [
+          "-75.502370000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19810",
+      "Postal code type": "STANDARD",
+      "Estimated population": "22.602",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Edgemoor, DE",
+          "ACCEPTABLE ",
+          "Arden, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "22.602",
+          "22.602",
+          "22.602"
+        ],
+        "Population density": [
+          "1.270,30"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.818650000"
+        ],
+        "Longitude": [
+          "-75.506510000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19850",
+      "Postal code type": "PO BOX",
+      "Estimated population": "442",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "442"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19880",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19884",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Greenville, DE",
+          "ACCEPTABLE ",
+          "Bank Of America, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19885",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Shared Firm Zip, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19886",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Bank Of America, DE",
+          "NOT ACCEPTABLE ",
+          "Shared Firm Zip, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19887",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Computer Com Of Amer, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19889",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Beneficial Natl Bank, DE",
+          "NOT ACCEPTABLE ",
+          "Wilmington, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19890",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Wilmington Trust, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19891",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Bank Of America, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19892",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Citibank, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19893",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Chase Manhattan Bank N A, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19894",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Hercules Incorporated, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19895",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Delmarva Power, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19896",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Verizon, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19897",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Astrazeneca, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19898",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Dupont Co Inc, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19899",
+      "Postal code type": "PO BOX",
+      "Estimated population": "707",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "707"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Wilmington, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19890",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Wilmington, DE",
+          "PRIMARY ",
+          "Wilmington Trust, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Winterthur, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19735",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Winterthur, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [
+          "17,90"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.805440000"
+        ],
+        "Longitude": [
+          "-75.602310000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Woodside, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19980",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Woodside, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [],
+        "Time zone": [],
+        "Latitude": [],
+        "Longitude": []
+      }
+    },
+    {
+      "Ciudad": "Wyoming, DE",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "19934",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.884",
+      "Postal code": {
+        "Ciudad": [
+          "Camden Wyoming, DE",
+          "PRIMARY ",
+          "Camden, DE",
+          "ACCEPTABLE ",
+          "Camden Wyo, DE",
+          "ACCEPTABLE ",
+          "Wyoming, DE",
+          "ACCEPTABLE ",
+          "Camden-wy, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyo, DE",
+          "NOT ACCEPTABLE ",
+          "Camden-wyoming, DE",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884",
+          "10.884"
+        ],
+        "Population density": [
+          "121,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.083350000"
+        ],
+        "Longitude": [
+          "-75.629110000"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Yorklyn, DE",
+      "City name": "PRIMARY ",
+      "Zip code": "19736",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Yorklyn, DE",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0"
+        ],
+        "Population density": [
+          "192,10"
+        ],
+        "Time zone": [
+          "America/New_York"
+        ],
+        "Latitude": [
+          "39.806110000"
+        ],
+        "Longitude": [
+          "-75.676450000"
+        ]
+      }
+    }
+  ]
+}

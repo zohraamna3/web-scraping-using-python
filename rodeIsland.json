@@ -1,0 +1,6116 @@
+{
+  "state abbreviation": "RI",
+  "State": "Rhode Island",
+  "Capital": "Providence",
+  "Rango CPs": "02801 to 02940",
+  "Amount of CPS": "91",
+  "Foundation date": "May 19, 1790",
+  "cities": [
+    {
+      "Ciudad": "Adamsville, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02801",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Adamsville, RI",
+          "PRIMARY ",
+          "Little Compton, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Adamsville, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02837",
+      "Postal code type": "STANDARD",
+      "Estimated population": "3.047",
+      "Postal code": {
+        "Ciudad": [
+          "Little Compton, RI",
+          "PRIMARY ",
+          "L Compton, RI",
+          "ACCEPTABLE ",
+          "Adamsville, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "3.047",
+          "3.047",
+          "3.047"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Albion, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02802",
+      "Postal code type": "PO BOX",
+      "Estimated population": "631",
+      "Postal code": {
+        "Ciudad": [
+          "Albion, RI",
+          "PRIMARY ",
+          "Lincoln, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "631",
+          "631"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Ashaway, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02804",
+      "Postal code type": "STANDARD",
+      "Estimated population": "2.518",
+      "Postal code": {
+        "Ciudad": [
+          "Ashaway, RI",
+          "PRIMARY ",
+          "Hopkinton, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "2.518",
+          "2.518"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Barrington, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02806",
+      "Postal code type": "STANDARD",
+      "Estimated population": "15.163",
+      "Postal code": {
+        "Ciudad": [
+          "Barrington, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "15.163"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Block Island, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02807",
+      "Postal code type": "PO BOX",
+      "Estimated population": "1.164",
+      "Postal code": {
+        "Ciudad": [
+          "Block Island, RI",
+          "PRIMARY ",
+          "New Shoreham, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "1.164",
+          "1.164"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Narragansett, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02882",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.236",
+      "Postal code": {
+        "Ciudad": [
+          "Narragansett, RI",
+          "PRIMARY ",
+          "Point Judith, RI",
+          "ACCEPTABLE ",
+          "Bonnet Shores, RI",
+          "NOT ACCEPTABLE ",
+          "Galilee, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.236",
+          "10.236",
+          "10.236",
+          "10.236"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Point Judith, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02882",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.236",
+      "Postal code": {
+        "Ciudad": [
+          "Narragansett, RI",
+          "PRIMARY ",
+          "Point Judith, RI",
+          "ACCEPTABLE ",
+          "Bonnet Shores, RI",
+          "NOT ACCEPTABLE ",
+          "Galilee, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.236",
+          "10.236",
+          "10.236",
+          "10.236"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Bradford, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02808",
+      "Postal code type": "STANDARD",
+      "Estimated population": "2.043",
+      "Postal code": {
+        "Ciudad": [
+          "Bradford, RI",
+          "PRIMARY ",
+          "Hopkinton, RI",
+          "NOT ACCEPTABLE ",
+          "Westerly, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "2.043",
+          "2.043",
+          "2.043"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Bristol, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02809",
+      "Postal code type": "STANDARD",
+      "Estimated population": "16.829",
+      "Postal code": {
+        "Ciudad": [
+          "Bristol, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "16.829"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Brown Station, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02912",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "483",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "Brown Station, RI",
+          "ACCEPTABLE ",
+          "Brown University, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "483",
+          "483",
+          "483"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02912",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "483",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "Brown Station, RI",
+          "ACCEPTABLE ",
+          "Brown University, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "483",
+          "483",
+          "483"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Brown Station, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02912",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "483",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "Brown Station, RI",
+          "ACCEPTABLE ",
+          "Brown University, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "483",
+          "483",
+          "483"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Burrillville, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02826",
+      "Postal code type": "PO BOX",
+      "Estimated population": "784",
+      "Postal code": {
+        "Ciudad": [
+          "Glendale, RI",
+          "PRIMARY ",
+          "Burrillville, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "784",
+          "784"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Burrillville, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02830",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.420",
+      "Postal code": {
+        "Ciudad": [
+          "Harrisville, RI",
+          "PRIMARY ",
+          "Burrillville, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.420",
+          "5.420"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Burrillville, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02839",
+      "Postal code type": "STANDARD",
+      "Estimated population": "1.601",
+      "Postal code": {
+        "Ciudad": [
+          "Mapleville, RI",
+          "PRIMARY ",
+          "Burrillville, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "1.601",
+          "1.601"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Burrillville, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02858",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Oakland, RI",
+          "PRIMARY ",
+          "Burrillville, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Carolina, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02812",
+      "Postal code type": "STANDARD",
+      "Estimated population": "1.368",
+      "Postal code": {
+        "Ciudad": [
+          "Carolina, RI",
+          "PRIMARY ",
+          "Richmond, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "1.368",
+          "1.368"
+        ]
+      }
+    },
+    {
+      "Ciudad": "North Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02911",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.324",
+      "Postal code": {
+        "Ciudad": [
+          "North Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "Providence, RI",
+          "ACCEPTABLE ",
+          "Centerdale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale Finance Branch, RI",
+          "NOT ACCEPTABLE ",
+          "No Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324"
+        ]
+      }
+    },
+    {
+      "Ciudad": "N Providence, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02911",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.324",
+      "Postal code": {
+        "Ciudad": [
+          "North Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "Providence, RI",
+          "ACCEPTABLE ",
+          "Centerdale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale Finance Branch, RI",
+          "NOT ACCEPTABLE ",
+          "No Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02911",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.324",
+      "Postal code": {
+        "Ciudad": [
+          "North Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "Providence, RI",
+          "ACCEPTABLE ",
+          "Centerdale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale Finance Branch, RI",
+          "NOT ACCEPTABLE ",
+          "No Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Central Falls, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02863",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.807",
+      "Postal code": {
+        "Ciudad": [
+          "Central Falls, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.807"
+        ]
+      }
+    },
+    {
+      "Ciudad": "North Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02911",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.324",
+      "Postal code": {
+        "Ciudad": [
+          "North Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "Providence, RI",
+          "ACCEPTABLE ",
+          "Centerdale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale Finance Branch, RI",
+          "NOT ACCEPTABLE ",
+          "No Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324"
+        ]
+      }
+    },
+    {
+      "Ciudad": "N Providence, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02911",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.324",
+      "Postal code": {
+        "Ciudad": [
+          "North Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "Providence, RI",
+          "ACCEPTABLE ",
+          "Centerdale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale Finance Branch, RI",
+          "NOT ACCEPTABLE ",
+          "No Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02911",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.324",
+      "Postal code": {
+        "Ciudad": [
+          "North Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "Providence, RI",
+          "ACCEPTABLE ",
+          "Centerdale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale Finance Branch, RI",
+          "NOT ACCEPTABLE ",
+          "No Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324"
+        ]
+      }
+    },
+    {
+      "Ciudad": "North Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02911",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.324",
+      "Postal code": {
+        "Ciudad": [
+          "North Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "Providence, RI",
+          "ACCEPTABLE ",
+          "Centerdale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale Finance Branch, RI",
+          "NOT ACCEPTABLE ",
+          "No Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324"
+        ]
+      }
+    },
+    {
+      "Ciudad": "N Providence, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02911",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.324",
+      "Postal code": {
+        "Ciudad": [
+          "North Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "Providence, RI",
+          "ACCEPTABLE ",
+          "Centerdale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale Finance Branch, RI",
+          "NOT ACCEPTABLE ",
+          "No Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02911",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.324",
+      "Postal code": {
+        "Ciudad": [
+          "North Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "Providence, RI",
+          "ACCEPTABLE ",
+          "Centerdale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale Finance Branch, RI",
+          "NOT ACCEPTABLE ",
+          "No Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Charlestown, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02813",
+      "Postal code type": "STANDARD",
+      "Estimated population": "6.822",
+      "Postal code": {
+        "Ciudad": [
+          "Charlestown, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "6.822"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Charlestown, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02836",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Kenyon, RI",
+          "PRIMARY ",
+          "Richmond, RI",
+          "ACCEPTABLE ",
+          "Charlestown, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Chepachet, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02814",
+      "Postal code type": "STANDARD",
+      "Estimated population": "6.606",
+      "Postal code": {
+        "Ciudad": [
+          "Chepachet, RI",
+          "PRIMARY ",
+          "Glocester, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "6.606",
+          "6.606"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Clayville, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02815",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Clayville, RI",
+          "PRIMARY ",
+          "Scituate, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Warwick, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02889",
+      "Postal code type": "STANDARD",
+      "Estimated population": "24.614",
+      "Postal code": {
+        "Ciudad": [
+          "Warwick, RI",
+          "PRIMARY ",
+          "Conimicut, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "24.614",
+          "24.614"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Coventry, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02816",
+      "Postal code type": "STANDARD",
+      "Estimated population": "27.787",
+      "Postal code": {
+        "Ciudad": [
+          "Coventry, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "27.787"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Coventry, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02827",
+      "Postal code type": "STANDARD",
+      "Estimated population": "2.027",
+      "Postal code": {
+        "Ciudad": [
+          "Greene, RI",
+          "PRIMARY ",
+          "Coventry, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "2.027",
+          "2.027"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Cranston, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02823",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Fiskeville, RI",
+          "PRIMARY ",
+          "Cranston, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Cranston, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02905",
+      "Postal code type": "STANDARD",
+      "Estimated population": "19.006",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "Cranston, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "19.006",
+          "19.006"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Cranston, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02907",
+      "Postal code type": "STANDARD",
+      "Estimated population": "20.468",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "Cranston, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "20.468",
+          "20.468"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Cranston, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02910",
+      "Postal code type": "STANDARD",
+      "Estimated population": "18.350",
+      "Postal code": {
+        "Ciudad": [
+          "Cranston, RI",
+          "PRIMARY ",
+          "Providence, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "18.350",
+          "18.350"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Cranston, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02920",
+      "Postal code type": "STANDARD",
+      "Estimated population": "28.279",
+      "Postal code": {
+        "Ciudad": [
+          "Cranston, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "28.279"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Cranston, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02921",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.886",
+      "Postal code": {
+        "Ciudad": [
+          "Cranston, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.886"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Cumberland, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02864",
+      "Postal code type": "STANDARD",
+      "Estimated population": "29.895",
+      "Postal code": {
+        "Ciudad": [
+          "Cumberland, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "29.895"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Pawtucket, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02861",
+      "Postal code type": "STANDARD",
+      "Estimated population": "22.037",
+      "Postal code": {
+        "Ciudad": [
+          "Pawtucket, RI",
+          "PRIMARY ",
+          "Darlington, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "22.037",
+          "22.037"
+        ]
+      }
+    },
+    {
+      "Ciudad": "North Kingstown, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02852",
+      "Postal code type": "STANDARD",
+      "Estimated population": "20.118",
+      "Postal code": {
+        "Ciudad": [
+          "North Kingstown, RI",
+          "PRIMARY ",
+          "N Kingstown, RI",
+          "ACCEPTABLE ",
+          "Davisville, RI",
+          "NOT ACCEPTABLE ",
+          "Wickford, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "20.118",
+          "20.118",
+          "20.118",
+          "20.118"
+        ]
+      }
+    },
+    {
+      "Ciudad": "N Kingstown, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02852",
+      "Postal code type": "STANDARD",
+      "Estimated population": "20.118",
+      "Postal code": {
+        "Ciudad": [
+          "North Kingstown, RI",
+          "PRIMARY ",
+          "N Kingstown, RI",
+          "ACCEPTABLE ",
+          "Davisville, RI",
+          "NOT ACCEPTABLE ",
+          "Wickford, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "20.118",
+          "20.118",
+          "20.118",
+          "20.118"
+        ]
+      }
+    },
+    {
+      "Ciudad": "E Greenwich, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02818",
+      "Postal code type": "STANDARD",
+      "Estimated population": "16.723",
+      "Postal code": {
+        "Ciudad": [
+          "East Greenwich, RI",
+          "PRIMARY ",
+          "E Greenwich, RI",
+          "ACCEPTABLE ",
+          "Warwick, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "16.723",
+          "16.723",
+          "16.723"
+        ]
+      }
+    },
+    {
+      "Ciudad": "E Providence, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02914",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.218",
+      "Postal code": {
+        "Ciudad": [
+          "East Providence, RI",
+          "PRIMARY ",
+          "E Providence, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.218",
+          "17.218"
+        ]
+      }
+    },
+    {
+      "Ciudad": "East Greenwich, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02818",
+      "Postal code type": "STANDARD",
+      "Estimated population": "16.723",
+      "Postal code": {
+        "Ciudad": [
+          "East Greenwich, RI",
+          "PRIMARY ",
+          "E Greenwich, RI",
+          "ACCEPTABLE ",
+          "Warwick, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "16.723",
+          "16.723",
+          "16.723"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wakefield, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Narragansett, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Peace Dale, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "S Kingstown, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "South Kingstown, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "East Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02914",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.218",
+      "Postal code": {
+        "Ciudad": [
+          "East Providence, RI",
+          "PRIMARY ",
+          "E Providence, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.218",
+          "17.218"
+        ]
+      }
+    },
+    {
+      "Ciudad": "East Providence, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02915",
+      "Postal code type": "STANDARD",
+      "Estimated population": "14.348",
+      "Postal code": {
+        "Ciudad": [
+          "Riverside, RI",
+          "PRIMARY ",
+          "East Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "14.348",
+          "14.348"
+        ]
+      }
+    },
+    {
+      "Ciudad": "East Providence, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02916",
+      "Postal code type": "STANDARD",
+      "Estimated population": "7.268",
+      "Postal code": {
+        "Ciudad": [
+          "Rumford, RI",
+          "PRIMARY ",
+          "East Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "7.268",
+          "7.268"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Escoheag, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02822",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.183",
+      "Postal code": {
+        "Ciudad": [
+          "Exeter, RI",
+          "PRIMARY ",
+          "Escoheag, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.183",
+          "5.183"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Smithfield, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02917",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.133",
+      "Postal code": {
+        "Ciudad": [
+          "Smithfield, RI",
+          "PRIMARY ",
+          "Esmond, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.133",
+          "10.133"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Exeter, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02822",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.183",
+      "Postal code": {
+        "Ciudad": [
+          "Exeter, RI",
+          "PRIMARY ",
+          "Escoheag, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.183",
+          "5.183"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Fiskeville, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02823",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Fiskeville, RI",
+          "PRIMARY ",
+          "Cranston, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Forestdale, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02824",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Forestdale, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Foster, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02825",
+      "Postal code type": "STANDARD",
+      "Estimated population": "4.719",
+      "Postal code": {
+        "Ciudad": [
+          "Foster, RI",
+          "PRIMARY ",
+          "Scituate, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "4.719",
+          "4.719"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Friar Station, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02918",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "Friar Station, RI",
+          "ACCEPTABLE ",
+          "Providence College, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Narragansett, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02882",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.236",
+      "Postal code": {
+        "Ciudad": [
+          "Narragansett, RI",
+          "PRIMARY ",
+          "Point Judith, RI",
+          "ACCEPTABLE ",
+          "Bonnet Shores, RI",
+          "NOT ACCEPTABLE ",
+          "Galilee, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.236",
+          "10.236",
+          "10.236",
+          "10.236"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Point Judith, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02882",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.236",
+      "Postal code": {
+        "Ciudad": [
+          "Narragansett, RI",
+          "PRIMARY ",
+          "Point Judith, RI",
+          "ACCEPTABLE ",
+          "Bonnet Shores, RI",
+          "NOT ACCEPTABLE ",
+          "Galilee, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.236",
+          "10.236",
+          "10.236",
+          "10.236"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Glendale, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02826",
+      "Postal code type": "PO BOX",
+      "Estimated population": "784",
+      "Postal code": {
+        "Ciudad": [
+          "Glendale, RI",
+          "PRIMARY ",
+          "Burrillville, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "784",
+          "784"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Glocester, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02814",
+      "Postal code type": "STANDARD",
+      "Estimated population": "6.606",
+      "Postal code": {
+        "Ciudad": [
+          "Chepachet, RI",
+          "PRIMARY ",
+          "Glocester, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "6.606",
+          "6.606"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Glocester, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02829",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Harmony, RI",
+          "PRIMARY ",
+          "Glocester, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Glocester, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02857",
+      "Postal code type": "STANDARD",
+      "Estimated population": "7.729",
+      "Postal code": {
+        "Ciudad": [
+          "North Scituate, RI",
+          "PRIMARY ",
+          "N Scituate, RI",
+          "ACCEPTABLE ",
+          "Scituate, RI",
+          "ACCEPTABLE ",
+          "Glocester, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "7.729",
+          "7.729",
+          "7.729",
+          "7.729"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Glocester, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02859",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.307",
+      "Postal code": {
+        "Ciudad": [
+          "Pascoag, RI",
+          "PRIMARY ",
+          "Glocester, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.307",
+          "5.307"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wakefield, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Narragansett, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Peace Dale, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "S Kingstown, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "South Kingstown, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Greene, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02827",
+      "Postal code type": "STANDARD",
+      "Estimated population": "2.027",
+      "Postal code": {
+        "Ciudad": [
+          "Greene, RI",
+          "PRIMARY ",
+          "Coventry, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "2.027",
+          "2.027"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Greenville, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02828",
+      "Postal code type": "STANDARD",
+      "Estimated population": "6.569",
+      "Postal code": {
+        "Ciudad": [
+          "Greenville, RI",
+          "PRIMARY ",
+          "Smithfield, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "6.569",
+          "6.569"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Harmony, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02829",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Harmony, RI",
+          "PRIMARY ",
+          "Glocester, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Harrisville, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02830",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.420",
+      "Postal code": {
+        "Ciudad": [
+          "Harrisville, RI",
+          "PRIMARY ",
+          "Burrillville, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.420",
+          "5.420"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Hope, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02831",
+      "Postal code type": "STANDARD",
+      "Estimated population": "3.532",
+      "Postal code": {
+        "Ciudad": [
+          "Hope, RI",
+          "PRIMARY ",
+          "Scituate, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "3.532",
+          "3.532"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Hope Valley, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02832",
+      "Postal code type": "STANDARD",
+      "Estimated population": "4.094",
+      "Postal code": {
+        "Ciudad": [
+          "Hope Valley, RI",
+          "PRIMARY ",
+          "Richmond, RI",
+          "ACCEPTABLE ",
+          "Hopkinton, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "4.094",
+          "4.094",
+          "4.094"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Hopkinton, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02804",
+      "Postal code type": "STANDARD",
+      "Estimated population": "2.518",
+      "Postal code": {
+        "Ciudad": [
+          "Ashaway, RI",
+          "PRIMARY ",
+          "Hopkinton, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "2.518",
+          "2.518"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Hopkinton, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02808",
+      "Postal code type": "STANDARD",
+      "Estimated population": "2.043",
+      "Postal code": {
+        "Ciudad": [
+          "Bradford, RI",
+          "PRIMARY ",
+          "Hopkinton, RI",
+          "NOT ACCEPTABLE ",
+          "Westerly, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "2.043",
+          "2.043",
+          "2.043"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Hopkinton, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02832",
+      "Postal code type": "STANDARD",
+      "Estimated population": "4.094",
+      "Postal code": {
+        "Ciudad": [
+          "Hope Valley, RI",
+          "PRIMARY ",
+          "Richmond, RI",
+          "ACCEPTABLE ",
+          "Hopkinton, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "4.094",
+          "4.094",
+          "4.094"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Hopkinton, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02833",
+      "Postal code type": "STANDARD",
+      "Estimated population": "559",
+      "Postal code": {
+        "Ciudad": [
+          "Hopkinton, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "559"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Hopkinton, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02873",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Rockville, RI",
+          "PRIMARY ",
+          "Hopkinton, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Jamestown, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02835",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.079",
+      "Postal code": {
+        "Ciudad": [
+          "Jamestown, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.079"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wakefield, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Narragansett, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Peace Dale, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "S Kingstown, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "South Kingstown, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Johnston, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02919",
+      "Postal code type": "STANDARD",
+      "Estimated population": "23.966",
+      "Postal code": {
+        "Ciudad": [
+          "Johnston, RI",
+          "PRIMARY ",
+          "Providence, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "23.966",
+          "23.966"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Kenyon, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02836",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Kenyon, RI",
+          "PRIMARY ",
+          "Richmond, RI",
+          "ACCEPTABLE ",
+          "Charlestown, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Kingston, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02881",
+      "Postal code type": "STANDARD",
+      "Estimated population": "2.040",
+      "Postal code": {
+        "Ciudad": [
+          "Kingston, RI",
+          "PRIMARY ",
+          "Wakefield, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "2.040",
+          "2.040"
+        ]
+      }
+    },
+    {
+      "Ciudad": "L Compton, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02837",
+      "Postal code type": "STANDARD",
+      "Estimated population": "3.047",
+      "Postal code": {
+        "Ciudad": [
+          "Little Compton, RI",
+          "PRIMARY ",
+          "L Compton, RI",
+          "ACCEPTABLE ",
+          "Adamsville, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "3.047",
+          "3.047",
+          "3.047"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Lincoln, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02802",
+      "Postal code type": "PO BOX",
+      "Estimated population": "631",
+      "Postal code": {
+        "Ciudad": [
+          "Albion, RI",
+          "PRIMARY ",
+          "Lincoln, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "631",
+          "631"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Lincoln, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02838",
+      "Postal code type": "STANDARD",
+      "Estimated population": "2.736",
+      "Postal code": {
+        "Ciudad": [
+          "Manville, RI",
+          "PRIMARY ",
+          "Lincoln, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "2.736",
+          "2.736"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Lincoln, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02865",
+      "Postal code type": "STANDARD",
+      "Estimated population": "15.355",
+      "Postal code": {
+        "Ciudad": [
+          "Lincoln, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "15.355"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Little Compton, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02801",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Adamsville, RI",
+          "PRIMARY ",
+          "Little Compton, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Little Compton, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02837",
+      "Postal code type": "STANDARD",
+      "Estimated population": "3.047",
+      "Postal code": {
+        "Ciudad": [
+          "Little Compton, RI",
+          "PRIMARY ",
+          "L Compton, RI",
+          "ACCEPTABLE ",
+          "Adamsville, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "3.047",
+          "3.047",
+          "3.047"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Manville, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02838",
+      "Postal code type": "STANDARD",
+      "Estimated population": "2.736",
+      "Postal code": {
+        "Ciudad": [
+          "Manville, RI",
+          "PRIMARY ",
+          "Lincoln, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "2.736",
+          "2.736"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Mapleville, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02839",
+      "Postal code type": "STANDARD",
+      "Estimated population": "1.601",
+      "Postal code": {
+        "Ciudad": [
+          "Mapleville, RI",
+          "PRIMARY ",
+          "Burrillville, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "1.601",
+          "1.601"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wakefield, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Narragansett, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Peace Dale, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "S Kingstown, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "South Kingstown, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Middletown, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02840",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.022",
+      "Postal code": {
+        "Ciudad": [
+          "Newport, RI",
+          "PRIMARY ",
+          "Middletown, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.022",
+          "17.022"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Middletown, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02842",
+      "Postal code type": "STANDARD",
+      "Estimated population": "13.797",
+      "Postal code": {
+        "Ciudad": [
+          "Middletown, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "13.797"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Westerly, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02891",
+      "Postal code type": "STANDARD",
+      "Estimated population": "18.883",
+      "Postal code": {
+        "Ciudad": [
+          "Westerly, RI",
+          "PRIMARY ",
+          "Misquamicut, RI",
+          "NOT ACCEPTABLE ",
+          "Watch Hill, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "18.883",
+          "18.883",
+          "18.883"
+        ]
+      }
+    },
+    {
+      "Ciudad": "N Kingstown, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02852",
+      "Postal code type": "STANDARD",
+      "Estimated population": "20.118",
+      "Postal code": {
+        "Ciudad": [
+          "North Kingstown, RI",
+          "PRIMARY ",
+          "N Kingstown, RI",
+          "ACCEPTABLE ",
+          "Davisville, RI",
+          "NOT ACCEPTABLE ",
+          "Wickford, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "20.118",
+          "20.118",
+          "20.118",
+          "20.118"
+        ]
+      }
+    },
+    {
+      "Ciudad": "N Kingstown, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02854",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "N Kingstown, RI",
+          "ACCEPTABLE ",
+          "North Kingstown, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "N Providence, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02904",
+      "Postal code type": "STANDARD",
+      "Estimated population": "22.164",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "North Providence, RI",
+          "ACCEPTABLE ",
+          "No Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "22.164",
+          "22.164",
+          "22.164",
+          "22.164"
+        ]
+      }
+    },
+    {
+      "Ciudad": "N Providence, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02908",
+      "Postal code type": "STANDARD",
+      "Estimated population": "24.468",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "North Providence, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "24.468",
+          "24.468",
+          "24.468"
+        ]
+      }
+    },
+    {
+      "Ciudad": "N Providence, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02911",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.324",
+      "Postal code": {
+        "Ciudad": [
+          "North Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "Providence, RI",
+          "ACCEPTABLE ",
+          "Centerdale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale Finance Branch, RI",
+          "NOT ACCEPTABLE ",
+          "No Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324"
+        ]
+      }
+    },
+    {
+      "Ciudad": "N Scituate, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02857",
+      "Postal code type": "STANDARD",
+      "Estimated population": "7.729",
+      "Postal code": {
+        "Ciudad": [
+          "North Scituate, RI",
+          "PRIMARY ",
+          "N Scituate, RI",
+          "ACCEPTABLE ",
+          "Scituate, RI",
+          "ACCEPTABLE ",
+          "Glocester, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "7.729",
+          "7.729",
+          "7.729",
+          "7.729"
+        ]
+      }
+    },
+    {
+      "Ciudad": "N Smithfield, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02896",
+      "Postal code type": "STANDARD",
+      "Estimated population": "8.477",
+      "Postal code": {
+        "Ciudad": [
+          "North Smithfield, RI",
+          "PRIMARY ",
+          "N Smithfield, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "8.477",
+          "8.477"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Narragansett, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02874",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.257",
+      "Postal code": {
+        "Ciudad": [
+          "Saunderstown, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "NOT ACCEPTABLE ",
+          "North Kingstown, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.257",
+          "5.257",
+          "5.257"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Narragansett, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Narragansett, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02882",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.236",
+      "Postal code": {
+        "Ciudad": [
+          "Narragansett, RI",
+          "PRIMARY ",
+          "Point Judith, RI",
+          "ACCEPTABLE ",
+          "Bonnet Shores, RI",
+          "NOT ACCEPTABLE ",
+          "Galilee, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.236",
+          "10.236",
+          "10.236",
+          "10.236"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Newport, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02841",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Newport, RI",
+          "PRIMARY ",
+          "Netc, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "New Shoreham, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02807",
+      "Postal code type": "PO BOX",
+      "Estimated population": "1.164",
+      "Postal code": {
+        "Ciudad": [
+          "Block Island, RI",
+          "PRIMARY ",
+          "New Shoreham, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "1.164",
+          "1.164"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Newport, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02840",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.022",
+      "Postal code": {
+        "Ciudad": [
+          "Newport, RI",
+          "PRIMARY ",
+          "Middletown, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.022",
+          "17.022"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Newport, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02841",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Newport, RI",
+          "PRIMARY ",
+          "Netc, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "No Providence, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02904",
+      "Postal code type": "STANDARD",
+      "Estimated population": "22.164",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "North Providence, RI",
+          "ACCEPTABLE ",
+          "No Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "22.164",
+          "22.164",
+          "22.164",
+          "22.164"
+        ]
+      }
+    },
+    {
+      "Ciudad": "No Providence, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02911",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.324",
+      "Postal code": {
+        "Ciudad": [
+          "North Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "Providence, RI",
+          "ACCEPTABLE ",
+          "Centerdale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale Finance Branch, RI",
+          "NOT ACCEPTABLE ",
+          "No Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324"
+        ]
+      }
+    },
+    {
+      "Ciudad": "North Kingstown, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02852",
+      "Postal code type": "STANDARD",
+      "Estimated population": "20.118",
+      "Postal code": {
+        "Ciudad": [
+          "North Kingstown, RI",
+          "PRIMARY ",
+          "N Kingstown, RI",
+          "ACCEPTABLE ",
+          "Davisville, RI",
+          "NOT ACCEPTABLE ",
+          "Wickford, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "20.118",
+          "20.118",
+          "20.118",
+          "20.118"
+        ]
+      }
+    },
+    {
+      "Ciudad": "North Kingstown, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02854",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "N Kingstown, RI",
+          "ACCEPTABLE ",
+          "North Kingstown, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "North Kingstown, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02874",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.257",
+      "Postal code": {
+        "Ciudad": [
+          "Saunderstown, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "NOT ACCEPTABLE ",
+          "North Kingstown, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.257",
+          "5.257",
+          "5.257"
+        ]
+      }
+    },
+    {
+      "Ciudad": "North Providence, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02904",
+      "Postal code type": "STANDARD",
+      "Estimated population": "22.164",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "North Providence, RI",
+          "ACCEPTABLE ",
+          "No Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "22.164",
+          "22.164",
+          "22.164",
+          "22.164"
+        ]
+      }
+    },
+    {
+      "Ciudad": "North Providence, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02908",
+      "Postal code type": "STANDARD",
+      "Estimated population": "24.468",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "North Providence, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "24.468",
+          "24.468",
+          "24.468"
+        ]
+      }
+    },
+    {
+      "Ciudad": "North Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02911",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.324",
+      "Postal code": {
+        "Ciudad": [
+          "North Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "Providence, RI",
+          "ACCEPTABLE ",
+          "Centerdale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale Finance Branch, RI",
+          "NOT ACCEPTABLE ",
+          "No Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324"
+        ]
+      }
+    },
+    {
+      "Ciudad": "North Scituate, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02857",
+      "Postal code type": "STANDARD",
+      "Estimated population": "7.729",
+      "Postal code": {
+        "Ciudad": [
+          "North Scituate, RI",
+          "PRIMARY ",
+          "N Scituate, RI",
+          "ACCEPTABLE ",
+          "Scituate, RI",
+          "ACCEPTABLE ",
+          "Glocester, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "7.729",
+          "7.729",
+          "7.729",
+          "7.729"
+        ]
+      }
+    },
+    {
+      "Ciudad": "North Smithfield, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02896",
+      "Postal code type": "STANDARD",
+      "Estimated population": "8.477",
+      "Postal code": {
+        "Ciudad": [
+          "North Smithfield, RI",
+          "PRIMARY ",
+          "N Smithfield, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "8.477",
+          "8.477"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Oakland, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02858",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Oakland, RI",
+          "PRIMARY ",
+          "Burrillville, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Pascoag, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02859",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.307",
+      "Postal code": {
+        "Ciudad": [
+          "Pascoag, RI",
+          "PRIMARY ",
+          "Glocester, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.307",
+          "5.307"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Pawtucket, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02860",
+      "Postal code type": "STANDARD",
+      "Estimated population": "32.700",
+      "Postal code": {
+        "Ciudad": [
+          "Pawtucket, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "32.700"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Pawtucket, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02861",
+      "Postal code type": "STANDARD",
+      "Estimated population": "22.037",
+      "Postal code": {
+        "Ciudad": [
+          "Pawtucket, RI",
+          "PRIMARY ",
+          "Darlington, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "22.037",
+          "22.037"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Pawtucket, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02862",
+      "Postal code type": "PO BOX",
+      "Estimated population": "638",
+      "Postal code": {
+        "Ciudad": [
+          "Pawtucket, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "638"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Peace Dale, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Peace Dale, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02883",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Peace Dale, RI",
+          "PRIMARY ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "Wakefield, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX",
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Point Judith, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02882",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.236",
+      "Postal code": {
+        "Ciudad": [
+          "Narragansett, RI",
+          "PRIMARY ",
+          "Point Judith, RI",
+          "ACCEPTABLE ",
+          "Bonnet Shores, RI",
+          "NOT ACCEPTABLE ",
+          "Galilee, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.236",
+          "10.236",
+          "10.236",
+          "10.236"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Portsmouth, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02871",
+      "Postal code type": "STANDARD",
+      "Estimated population": "15.498",
+      "Postal code": {
+        "Ciudad": [
+          "Portsmouth, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "15.498"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Portsmouth, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02872",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Prudence Island, RI",
+          "PRIMARY ",
+          "Prudence Isl, RI",
+          "ACCEPTABLE ",
+          "Portsmouth, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02901",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02902",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "Providence Journal, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02903",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.160",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.160"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02904",
+      "Postal code type": "STANDARD",
+      "Estimated population": "22.164",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "North Providence, RI",
+          "ACCEPTABLE ",
+          "No Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "22.164",
+          "22.164",
+          "22.164",
+          "22.164"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02905",
+      "Postal code type": "STANDARD",
+      "Estimated population": "19.006",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "Cranston, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "19.006",
+          "19.006"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02906",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.860",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.860"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02907",
+      "Postal code type": "STANDARD",
+      "Estimated population": "20.468",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "Cranston, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "20.468",
+          "20.468"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02908",
+      "Postal code type": "STANDARD",
+      "Estimated population": "24.468",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "North Providence, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "24.468",
+          "24.468",
+          "24.468"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02909",
+      "Postal code type": "STANDARD",
+      "Estimated population": "27.797",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "27.797"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02910",
+      "Postal code type": "STANDARD",
+      "Estimated population": "18.350",
+      "Postal code": {
+        "Ciudad": [
+          "Cranston, RI",
+          "PRIMARY ",
+          "Providence, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "18.350",
+          "18.350"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02911",
+      "Postal code type": "STANDARD",
+      "Estimated population": "12.324",
+      "Postal code": {
+        "Ciudad": [
+          "North Providence, RI",
+          "PRIMARY ",
+          "N Providence, RI",
+          "ACCEPTABLE ",
+          "Providence, RI",
+          "ACCEPTABLE ",
+          "Centerdale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale, RI",
+          "NOT ACCEPTABLE ",
+          "Centredale Finance Branch, RI",
+          "NOT ACCEPTABLE ",
+          "No Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324",
+          "12.324"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02912",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "483",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "Brown Station, RI",
+          "ACCEPTABLE ",
+          "Brown University, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "483",
+          "483",
+          "483"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02918",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "Friar Station, RI",
+          "ACCEPTABLE ",
+          "Providence College, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02919",
+      "Postal code type": "STANDARD",
+      "Estimated population": "23.966",
+      "Postal code": {
+        "Ciudad": [
+          "Johnston, RI",
+          "PRIMARY ",
+          "Providence, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "23.966",
+          "23.966"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02940",
+      "Postal code type": "PO BOX",
+      "Estimated population": "964",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "964"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02918",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "Friar Station, RI",
+          "ACCEPTABLE ",
+          "Providence College, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Friar Station, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02918",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "Friar Station, RI",
+          "ACCEPTABLE ",
+          "Providence College, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Providence, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02902",
+      "Postal code type": "UNIQUE",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Providence, RI",
+          "PRIMARY ",
+          "Providence Journal, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "UNIQUE",
+          "UNIQUE"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Prudence Isl, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02872",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Prudence Island, RI",
+          "PRIMARY ",
+          "Prudence Isl, RI",
+          "ACCEPTABLE ",
+          "Portsmouth, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Prudence Island, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02872",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Prudence Island, RI",
+          "PRIMARY ",
+          "Prudence Isl, RI",
+          "ACCEPTABLE ",
+          "Portsmouth, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Richmond, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02812",
+      "Postal code type": "STANDARD",
+      "Estimated population": "1.368",
+      "Postal code": {
+        "Ciudad": [
+          "Carolina, RI",
+          "PRIMARY ",
+          "Richmond, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "1.368",
+          "1.368"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Richmond, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02832",
+      "Postal code type": "STANDARD",
+      "Estimated population": "4.094",
+      "Postal code": {
+        "Ciudad": [
+          "Hope Valley, RI",
+          "PRIMARY ",
+          "Richmond, RI",
+          "ACCEPTABLE ",
+          "Hopkinton, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "4.094",
+          "4.094",
+          "4.094"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Richmond, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02836",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Kenyon, RI",
+          "PRIMARY ",
+          "Richmond, RI",
+          "ACCEPTABLE ",
+          "Charlestown, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Richmond, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02875",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Shannock, RI",
+          "PRIMARY ",
+          "Richmond, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Richmond, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02892",
+      "Postal code type": "STANDARD",
+      "Estimated population": "4.536",
+      "Postal code": {
+        "Ciudad": [
+          "West Kingston, RI",
+          "PRIMARY ",
+          "Richmond, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "4.536",
+          "4.536",
+          "4.536"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Richmond, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02898",
+      "Postal code type": "STANDARD",
+      "Estimated population": "1.900",
+      "Postal code": {
+        "Ciudad": [
+          "Wyoming, RI",
+          "PRIMARY ",
+          "Richmond, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "1.900",
+          "1.900"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Riverside, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02915",
+      "Postal code type": "STANDARD",
+      "Estimated population": "14.348",
+      "Postal code": {
+        "Ciudad": [
+          "Riverside, RI",
+          "PRIMARY ",
+          "East Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "14.348",
+          "14.348"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Rockville, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02873",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Rockville, RI",
+          "PRIMARY ",
+          "Hopkinton, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Rumford, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02916",
+      "Postal code type": "STANDARD",
+      "Estimated population": "7.268",
+      "Postal code": {
+        "Ciudad": [
+          "Rumford, RI",
+          "PRIMARY ",
+          "East Providence, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "7.268",
+          "7.268"
+        ]
+      }
+    },
+    {
+      "Ciudad": "S Kingstown, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "S Kingstown, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02883",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Peace Dale, RI",
+          "PRIMARY ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "Wakefield, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX",
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Saunderstown, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02874",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.257",
+      "Postal code": {
+        "Ciudad": [
+          "Saunderstown, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "NOT ACCEPTABLE ",
+          "North Kingstown, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.257",
+          "5.257",
+          "5.257"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Scituate, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02815",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Clayville, RI",
+          "PRIMARY ",
+          "Scituate, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Scituate, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02825",
+      "Postal code type": "STANDARD",
+      "Estimated population": "4.719",
+      "Postal code": {
+        "Ciudad": [
+          "Foster, RI",
+          "PRIMARY ",
+          "Scituate, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "4.719",
+          "4.719"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Scituate, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02831",
+      "Postal code type": "STANDARD",
+      "Estimated population": "3.532",
+      "Postal code": {
+        "Ciudad": [
+          "Hope, RI",
+          "PRIMARY ",
+          "Scituate, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "3.532",
+          "3.532"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Scituate, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02857",
+      "Postal code type": "STANDARD",
+      "Estimated population": "7.729",
+      "Postal code": {
+        "Ciudad": [
+          "North Scituate, RI",
+          "PRIMARY ",
+          "N Scituate, RI",
+          "ACCEPTABLE ",
+          "Scituate, RI",
+          "ACCEPTABLE ",
+          "Glocester, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "7.729",
+          "7.729",
+          "7.729",
+          "7.729"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Shannock, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02875",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Shannock, RI",
+          "PRIMARY ",
+          "Richmond, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Slatersville, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02876",
+      "Postal code type": "STANDARD",
+      "Estimated population": "1.211",
+      "Postal code": {
+        "Ciudad": [
+          "Slatersville, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "1.211"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Slocum, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02877",
+      "Postal code type": "STANDARD",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Slocum, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Smithfield, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02828",
+      "Postal code type": "STANDARD",
+      "Estimated population": "6.569",
+      "Postal code": {
+        "Ciudad": [
+          "Greenville, RI",
+          "PRIMARY ",
+          "Smithfield, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "6.569",
+          "6.569"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Smithfield, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02917",
+      "Postal code type": "STANDARD",
+      "Estimated population": "10.133",
+      "Postal code": {
+        "Ciudad": [
+          "Smithfield, RI",
+          "PRIMARY ",
+          "Esmond, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "10.133",
+          "10.133"
+        ]
+      }
+    },
+    {
+      "Ciudad": "South Kingstown, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "South Kingstown, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02883",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Peace Dale, RI",
+          "PRIMARY ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "Wakefield, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX",
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "South Kingstown, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02892",
+      "Postal code type": "STANDARD",
+      "Estimated population": "4.536",
+      "Postal code": {
+        "Ciudad": [
+          "West Kingston, RI",
+          "PRIMARY ",
+          "Richmond, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "4.536",
+          "4.536",
+          "4.536"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Tiverton, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02878",
+      "Postal code type": "STANDARD",
+      "Estimated population": "13.961",
+      "Postal code": {
+        "Ciudad": [
+          "Tiverton, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "13.961"
+        ]
+      }
+    },
+    {
+      "Ciudad": "W Greenwich, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02817",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.436",
+      "Postal code": {
+        "Ciudad": [
+          "West Greenwich, RI",
+          "PRIMARY ",
+          "W Greenwich, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.436",
+          "5.436"
+        ]
+      }
+    },
+    {
+      "Ciudad": "West Warwick, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02893",
+      "Postal code type": "STANDARD",
+      "Estimated population": "24.077",
+      "Postal code": {
+        "Ciudad": [
+          "West Warwick, RI",
+          "PRIMARY ",
+          "W Warwick, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "24.077",
+          "24.077"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wakefield, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02879",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.248",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY ",
+          "Narragansett, RI",
+          "ACCEPTABLE ",
+          "Peace Dale, RI",
+          "ACCEPTABLE ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "East Matunuck, RI",
+          "NOT ACCEPTABLE ",
+          "Green Hill, RI",
+          "NOT ACCEPTABLE ",
+          "Jerusalem, RI",
+          "NOT ACCEPTABLE ",
+          "Matunuck, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248",
+          "17.248"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wakefield, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02880",
+      "Postal code type": "PO BOX",
+      "Estimated population": "659",
+      "Postal code": {
+        "Ciudad": [
+          "Wakefield, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "659"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wakefield, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02881",
+      "Postal code type": "STANDARD",
+      "Estimated population": "2.040",
+      "Postal code": {
+        "Ciudad": [
+          "Kingston, RI",
+          "PRIMARY ",
+          "Wakefield, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "2.040",
+          "2.040"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wakefield, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02883",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Peace Dale, RI",
+          "PRIMARY ",
+          "S Kingstown, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "ACCEPTABLE ",
+          "Wakefield, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "PO BOX",
+          "PO BOX",
+          "PO BOX",
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Warren, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02885",
+      "Postal code type": "STANDARD",
+      "Estimated population": "8.830",
+      "Postal code": {
+        "Ciudad": [
+          "Warren, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "8.830"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Warwick, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02818",
+      "Postal code type": "STANDARD",
+      "Estimated population": "16.723",
+      "Postal code": {
+        "Ciudad": [
+          "East Greenwich, RI",
+          "PRIMARY ",
+          "E Greenwich, RI",
+          "ACCEPTABLE ",
+          "Warwick, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "16.723",
+          "16.723",
+          "16.723"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Warwick, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02886",
+      "Postal code type": "STANDARD",
+      "Estimated population": "25.122",
+      "Postal code": {
+        "Ciudad": [
+          "Warwick, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "25.122"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Warwick, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02887",
+      "Postal code type": "PO BOX",
+      "Estimated population": "0",
+      "Postal code": {
+        "Ciudad": [
+          "Warwick, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "PO BOX"
+        ],
+        "Estimated population": [
+          "0"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Warwick, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02888",
+      "Postal code type": "STANDARD",
+      "Estimated population": "17.491",
+      "Postal code": {
+        "Ciudad": [
+          "Warwick, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "17.491"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Warwick, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02889",
+      "Postal code type": "STANDARD",
+      "Estimated population": "24.614",
+      "Postal code": {
+        "Ciudad": [
+          "Warwick, RI",
+          "PRIMARY ",
+          "Conimicut, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "24.614",
+          "24.614"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Westerly, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02891",
+      "Postal code type": "STANDARD",
+      "Estimated population": "18.883",
+      "Postal code": {
+        "Ciudad": [
+          "Westerly, RI",
+          "PRIMARY ",
+          "Misquamicut, RI",
+          "NOT ACCEPTABLE ",
+          "Watch Hill, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "18.883",
+          "18.883",
+          "18.883"
+        ]
+      }
+    },
+    {
+      "Ciudad": "West Greenwich, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02817",
+      "Postal code type": "STANDARD",
+      "Estimated population": "5.436",
+      "Postal code": {
+        "Ciudad": [
+          "West Greenwich, RI",
+          "PRIMARY ",
+          "W Greenwich, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "5.436",
+          "5.436"
+        ]
+      }
+    },
+    {
+      "Ciudad": "West Kingston, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02892",
+      "Postal code type": "STANDARD",
+      "Estimated population": "4.536",
+      "Postal code": {
+        "Ciudad": [
+          "West Kingston, RI",
+          "PRIMARY ",
+          "Richmond, RI",
+          "ACCEPTABLE ",
+          "South Kingstown, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "4.536",
+          "4.536",
+          "4.536"
+        ]
+      }
+    },
+    {
+      "Ciudad": "West Warwick, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02893",
+      "Postal code type": "STANDARD",
+      "Estimated population": "24.077",
+      "Postal code": {
+        "Ciudad": [
+          "West Warwick, RI",
+          "PRIMARY ",
+          "W Warwick, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "24.077",
+          "24.077"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Westerly, RI",
+      "City name": "IMPROPER ",
+      "Zip code": "02808",
+      "Postal code type": "STANDARD",
+      "Estimated population": "2.043",
+      "Postal code": {
+        "Ciudad": [
+          "Bradford, RI",
+          "PRIMARY ",
+          "Hopkinton, RI",
+          "NOT ACCEPTABLE ",
+          "Westerly, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "2.043",
+          "2.043",
+          "2.043"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Westerly, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02891",
+      "Postal code type": "STANDARD",
+      "Estimated population": "18.883",
+      "Postal code": {
+        "Ciudad": [
+          "Westerly, RI",
+          "PRIMARY ",
+          "Misquamicut, RI",
+          "NOT ACCEPTABLE ",
+          "Watch Hill, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "18.883",
+          "18.883",
+          "18.883"
+        ]
+      }
+    },
+    {
+      "Ciudad": "North Kingstown, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02852",
+      "Postal code type": "STANDARD",
+      "Estimated population": "20.118",
+      "Postal code": {
+        "Ciudad": [
+          "North Kingstown, RI",
+          "PRIMARY ",
+          "N Kingstown, RI",
+          "ACCEPTABLE ",
+          "Davisville, RI",
+          "NOT ACCEPTABLE ",
+          "Wickford, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "20.118",
+          "20.118",
+          "20.118",
+          "20.118"
+        ]
+      }
+    },
+    {
+      "Ciudad": "N Kingstown, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02852",
+      "Postal code type": "STANDARD",
+      "Estimated population": "20.118",
+      "Postal code": {
+        "Ciudad": [
+          "North Kingstown, RI",
+          "PRIMARY ",
+          "N Kingstown, RI",
+          "ACCEPTABLE ",
+          "Davisville, RI",
+          "NOT ACCEPTABLE ",
+          "Wickford, RI",
+          "NOT ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD",
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "20.118",
+          "20.118",
+          "20.118",
+          "20.118"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wood River Jt, RI",
+      "City name": "ACCEPTABLE ",
+      "Zip code": "02894",
+      "Postal code type": "STANDARD",
+      "Estimated population": "706",
+      "Postal code": {
+        "Ciudad": [
+          "Wood River Junction, RI",
+          "PRIMARY ",
+          "Wood River Jt, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "706",
+          "706"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wood River Junction, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02894",
+      "Postal code type": "STANDARD",
+      "Estimated population": "706",
+      "Postal code": {
+        "Ciudad": [
+          "Wood River Junction, RI",
+          "PRIMARY ",
+          "Wood River Jt, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "706",
+          "706"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Woonsocket, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02895",
+      "Postal code type": "STANDARD",
+      "Estimated population": "30.278",
+      "Postal code": {
+        "Ciudad": [
+          "Woonsocket, RI",
+          "PRIMARY "
+        ],
+        "Postal code type": [
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "30.278"
+        ]
+      }
+    },
+    {
+      "Ciudad": "Wyoming, RI",
+      "City name": "PRIMARY ",
+      "Zip code": "02898",
+      "Postal code type": "STANDARD",
+      "Estimated population": "1.900",
+      "Postal code": {
+        "Ciudad": [
+          "Wyoming, RI",
+          "PRIMARY ",
+          "Richmond, RI",
+          "ACCEPTABLE "
+        ],
+        "Postal code type": [
+          "STANDARD",
+          "STANDARD"
+        ],
+        "Estimated population": [
+          "1.900",
+          "1.900"
+        ]
+      }
+    }
+  ]
+}
